@@ -1,0 +1,12 @@
+Title                                   No. AvailableNo. Rented
+Arrival                                 4                  0
+Arrow                                   60                 5
+Beauty and the Beast                    2                  2
+Captain America: Civil War              0                  1
+Doctor Strange                          1                  5
+Freaky Friday                           3                  1
+Goal                                    7                  3
+Lilo and Stitch                         0                  1
+Malificent                              5                  0
+Me, myself and I                        99                 8
+Passengers                              2                  4
